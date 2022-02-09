@@ -3,6 +3,7 @@
 Nesse projeto criamos um CRUD do 0, utilizando a biblioteca sequelize sobre Node.js
 Express.js e MySQL.
 
+
 [Link do video no YouTube](https://www.youtube.com/watch?v=-FGCjfR9HFk&t=1284s)
 
 Você aprendeu:
